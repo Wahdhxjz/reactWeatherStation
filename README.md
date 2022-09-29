@@ -1,9 +1,18 @@
-# Getting Started with Create React App
+# Getting Started with React Weather Station App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+before runing the project you should run 
+
+### `npm install`
+
+after that you should add your api key from openweathermap.org just creat an account and get free key 
+
+add this api key in App.js :
+
+### `const APIKey = 'here';`
 In the project directory, you can run:
 
 ### `npm start`
