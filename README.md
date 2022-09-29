@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![system schema](https://imgur.com/TDg7c57.jpg)
+
 ## Available Scripts
 
 before runing the project you should run 
